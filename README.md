@@ -26,6 +26,11 @@
 
 <div align="center"><sub>:warning: Work in progress :warning:</sub></div>
 
+</br>
+
+> [!WARNING]
+> This project is in early development and is not yet ready for production use.
+
 ##
 
 ## Outline
